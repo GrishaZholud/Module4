@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-05-28T15:25:07.029577900Z</date>
+  <millis>1653751507029</millis>
+  <nanos>577900</nanos>
+  <sequence>0</sequence>
+  <logger>zholud.homeworks.Users.FileStorage</logger>
+  <level>INFO</level>
+  <class>zholud.homeworks.Users.FileStorage</class>
+  <method>saveItem</method>
+  <thread>1</thread>
+  <message>File 1.csv was created</message>
+</record>
+<record>
+  <date>2022-05-28T15:25:15.041542500Z</date>
+  <millis>1653751515041</millis>
+  <nanos>542500</nanos>
+  <sequence>1</sequence>
+  <logger>zholud.homeworks.Users.FileStorage</logger>
+  <level>INFO</level>
+  <class>zholud.homeworks.Users.FileStorage</class>
+  <method>showItem</method>
+  <thread>1</thread>
+  <message>Item 1.csv has been printed</message>
+</record>
+<record>
+  <date>2022-05-28T15:25:22.105503900Z</date>
+  <millis>1653751522105</millis>
+  <nanos>503900</nanos>
+  <sequence>2</sequence>
+  <logger>zholud.homeworks.Users.FileStorage</logger>
+  <level>INFO</level>
+  <class>zholud.homeworks.Users.FileStorage</class>
+  <method>deleteFile</method>
+  <thread>1</thread>
+  <message>File 1.csv deleted</message>
+</record>
+<record>
+  <date>2022-05-28T15:26:12.502413900Z</date>
+  <millis>1653751572502</millis>
+  <nanos>413900</nanos>
+  <sequence>3</sequence>
+  <logger>zholud.homeworks.Users.FileStorage</logger>
+  <level>INFO</level>
+  <class>zholud.homeworks.Users.FileStorage</class>
+  <method>saveItem</method>
+  <thread>1</thread>
+  <message>File 1.csv was created</message>
+</record>
+<record>
+  <date>2022-05-28T15:26:20.541456700Z</date>
+  <millis>1653751580541</millis>
+  <nanos>456700</nanos>
+  <sequence>4</sequence>
+  <logger>zholud.homeworks.Users.FileStorage</logger>
+  <level>INFO</level>
+  <class>zholud.homeworks.Users.FileStorage</class>
+  <method>showItem</method>
+  <thread>1</thread>
+  <message>Item 1.csv has been printed</message>
+</record>
+</log>
